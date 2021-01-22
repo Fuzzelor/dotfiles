@@ -28,10 +28,8 @@ call plug#begin()
     Plug 'airblade/vim-gitgutter'
     Plug 'airblade/vim-rooter'
 
-    Plug 'neovimhaskell/haskell-vim'
     Plug 'sheerun/vim-polyglot'
     Plug 'sirver/ultisnips'
-    Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
     Plug 'vimwiki/vimwiki'
     Plug 'liuchengxu/vim-which-key'
