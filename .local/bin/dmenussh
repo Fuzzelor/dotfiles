@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# Get user selection via dmenu from ssh config file.
+chosen=$(cat $HOME/.ssh/config | grep -Ei "^[hH]ost .*$" | awk '{print $2}' | dmenu -i -p "Connect to which host" | sed "s/ .*//")
+
+# Exit if none chosen.
+[ -z "$chosen" ] && exit
+
+if [ -n "$1" ]; then
+	xdotool type "$chosen"
+else
+	alacritty --command ssh "$chosen"
+	notify-send "connecting to '$chosen'." &
+fi
