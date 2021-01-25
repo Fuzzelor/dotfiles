@@ -1,39 +1,22 @@
 ------------------------
+-------NEWS-------------
+------------------------
+https://rss.sueddeutsche.de/rss/Topthemen "Sueddeutsche Zeitung"
+------------------------
 -------NEWSFEEDS--------
 ------------------------
 https://distrowatch.com/news/dw.xml "~NEWSFEED: DistroWatch" 
 http://lxer.com/module/newswire/headlines.rss "~NEWSFEED: LXer"
 https://www.linuxjournal.com/news/feed "~NEWSFEED: Linux Journal"
 https://www.networkworld.com/category/linux/index.rss "~NEWSFEED: Network World (Linux)"
-https://www.computerworld.com/index.rss "~NEWSFEED: Computer World"
-http://feeds.feedburner.com/d0od "~NEWSFEED: OMG Ubuntu!"
-https://www.phoronix.com/rss.php "~NEWSFEED: Phoronix"
-https://www.zdnet.com/topic/linux/rss.xml "~NEWSFEED: ZDNet (Linux)"
 https://itsfoss.com/feed/ "~NEWSFEED: It's Foss"
-https://linux.softpedia.com/backend.xml "~NEWSFEED: Softpedia (Linux)"
-https://opensource.com/feed "~NEWSFEED: Opensource.com"
-https://betanews.com/feed/ "~NEWSFEED: Beta News"
-http://feeds.feedburner.com/fossbytes "~NEWSFEED: FossBytes"
-https://www.techrepublic.com/rssfeeds/topic/open-source/ "~NEWSFEED: Tech Republic (Open Source)"
 https://www.theinquirer.net/feeds/rss/tag/open-source "~NEWSFEED: The Inquirer (Open Source)"
 http://feeds.arstechnica.com/arstechnica/open-source "~NEWSFEED: ArsTechnica (Open Source)"
-https://www.linuxinsider.com/perl/syndication/rssfull.pl "~NEWSFEED: Linux Insider"
-https://hackaday.com/blog/feed/ "~NEWSFEED: Hackaday"
 https://www.gamingonlinux.com/article_rss.php "~NEWSFEED: Gaming On Linux"
 -------------------------
 -------YOUTUBE-----------
 -------------------------
-https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~YOUTUBE: DistroTube"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCwY9B5_8QDGP8niZhBtTh8w "~YOUTUBE: TWiT Netcast"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCHugE6eRhqB9_AZQh4DDbIw "~YOUTUBE: Jupiter Broadcasting"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA "~YOUTUBE: Bryan Lunduke"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCbHXJGd7c8Hy4z0-YX1Jf3Q "~YOUTUBE: Matt Hartley"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCWJUSpXVHTaHErtGWC5qPlQ "~YOUTUBE: Destination Linux"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ "~YOUTUBE: Level1Techs"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCOWcZ6Wicl-1N34H0zZe38w "~YOUTUBE: Level1Linux"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCv1Kcz-CuGM6mxzL3B1_Eiw "~YOUTUBE: The Linux Gamer"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCRBHiacaQb5S70pljtJYB2g "~YOUTUBE: EposVox"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw "~YOUTUBE: Linus Tech Tips"
+-
 -------------------------
 -------REDDIT------------
 -------------------------
@@ -51,11 +34,10 @@ https://www.reddit.com/r/unixporn.rss "~REDDIT: r/unixporn"
 -------GIT_REPOS---------
 -------------------------
 https://github.com/p-louis/dotfiles/commits/master.atom "~GITHUB: dotfiles"
-https://gitlab.com/Fuzzelor/hash-crack.atom "~GITLAB: hash-crack"
--------------------------
--------SOURCEFORGE-------
--------------------------
-https://sourceforge.net/mirror/tor-browser/activity/feed "~SOURCEFORGE: Tor Browser"
+https://github.com/p-louis/st/commits/master.atom "~GITHUB: st"
+https://github.com/p-louis/dwm/commits/master.atom "~GITHUB: dwm"
+https://github.com/p-louis/dwmblocks/commits/master.atom "~GITHUB: dwmblocks"
+https://github.com/p-louis/dmenu/commits/master.atom "~GITHUB: dmenu"
 -------------------------
 -------ARCHLINUX---------
 -------------------------
