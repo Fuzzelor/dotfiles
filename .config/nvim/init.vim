@@ -18,19 +18,16 @@ filetype plugin indent on    " required
 " ==============================================================================
 " Plugin settings
 " ==============================================================================
-so $HOME/.config/nvim/plugsettings/ultisnips.vim
-so $HOME/.config/nvim/plugsettings/haskell-vim.vim
 so $HOME/.config/nvim/plugsettings/nerdcommenter.vim
 so $HOME/.config/nvim/plugsettings/rainbow.vim
 so $HOME/.config/nvim/plugsettings/nerdtree.vim
 so $HOME/.config/nvim/plugsettings/gitgutter.vim
 so $HOME/.config/nvim/plugsettings/airline.vim
 so $HOME/.config/nvim/plugsettings/fugitive.vim
-so $HOME/.config/nvim/plugsettings/coc.vim
 so $HOME/.config/nvim/plugsettings/easyalign.vim
 so $HOME/.config/nvim/plugsettings/fzf.vim
 so $HOME/.config/nvim/plugsettings/vim-which-key.vim
-so $HOME/.config/nvim/plugsettings/vim-startify.vim
+so $HOME/.config/nvim/plugsettings/vimwiki.vim
 so $HOME/.config/nvim/plugsettings/vim-sneak.vim
 so $HOME/.config/nvim/plugsettings/colorizer.vim
 
